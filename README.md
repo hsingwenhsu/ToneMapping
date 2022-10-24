@@ -20,3 +20,5 @@
     ```
     - Note: Should make sure that the hdr image is already generated
 
+### Result
+![Alt text](result.png?raw=true "Title")
